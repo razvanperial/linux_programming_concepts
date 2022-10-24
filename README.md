@@ -1,6 +1,6 @@
 # Linux programming concepts and principles
 
-This repository contains problems that make use of concepts and principles used by operating systems to provide programming abstractions that enable 
+This repository contains problems that make use of concepts and principles used by Unix based operating systems to provide programming abstractions that enable 
 an efficient and robust execution of application programs.
 
 ## Here is a list of the problems presented and their different use cases:
